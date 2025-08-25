@@ -1,4 +1,4 @@
-package com.github.gustavobarbosab.simpleandroidapp.ui.theme
+package com.github.gustavobarbosab.simpleandroidapp.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
